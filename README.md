@@ -1,8 +1,10 @@
-# Hi, I'm Patricia Herningtyas 👋
+# Hi, I'm Patricia! 👋
 
 🎓 I'm a second-year Computer Science student at the University of Indonesia  
 💻 Passionate about backend engineering, clean architecture, and DevOps  
 🚀 Always building, always learning
+🐶 Secretly powered by corgis and iced coffee
+📚 Still figuring things out, but loving the journey
 
 ---
 
