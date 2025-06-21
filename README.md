@@ -38,6 +38,14 @@ Platform-Based Programming Course
 
 ---
 
+### [Salim & Sarah Wedding Invitation](https://salim-and-sarah.vercel.app)  
+Solo Front-End Developer
+- A custom-designed wedding invitation site built with React and styled using Tailwind CSS
+- Embedded background music and smooth scrolling interactions for an emotional, memorable user experience
+- Handled all front-end logic, layout design, animations, and responsive behavior — deployed using Vercel
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages:** Python, Java, JavaScript, TypeScript, C, Dart, Bash  
