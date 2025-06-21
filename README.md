@@ -2,7 +2,7 @@
 
 🎓 I'm a second-year Computer Science student at the University of Indonesia  
 
-💻 Passionate about backend engineering, clean architecture, and DevOps  
+💻 Passionate about backend engineering and DevOps  
 
 🚀 Always building, always learning
 
