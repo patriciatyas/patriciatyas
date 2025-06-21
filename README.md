@@ -1,4 +1,4 @@
-# Hi, I'm Patricia! 👋
+# 𐙚 ‧₊˚ ⋅ Hi, I'm Patricia! 👋
 
 🎓 I'm a second-year Computer Science student at the University of Indonesia  
 
@@ -6,9 +6,9 @@
 
 🚀 Always building, always learning
 
-🐶 Secretly powered by corgis and iced coffee
+🐶 Secretly powered by corgis and iced coffee (˵ ¬ᴗ¬˵)
 
-📚 Still figuring things out, but loving the journey
+📚 Still figuring things out, but loving the journey (˶ᵔ ᵕ ᵔ˶)
 
 ---
 
