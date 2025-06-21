@@ -6,7 +6,7 @@
 
 🐶 Secretly powered by corgis and iced coffee (˵ ¬ᴗ¬˵)
 
-📚 Still figuring things out, but loving the journey (˶ᵔ ᵕ ᵔ˶)
+📚 Always learning, loving the journey and everything it brings (˶ᵔ ᵕ ᵔ˶)
 
 ---
 
