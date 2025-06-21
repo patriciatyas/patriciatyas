@@ -4,8 +4,6 @@
 
 💻 Passionate about backend engineering and DevOps  
 
-🚀 Always building, always learning
-
 🐶 Secretly powered by corgis and iced coffee (˵ ¬ᴗ¬˵)
 
 📚 Still figuring things out, but loving the journey (˶ᵔ ᵕ ᵔ˶)
