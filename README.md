@@ -21,7 +21,7 @@ Advanced Programming Course
 ---
 
 ### Sinanya *(private GitLab repo)*  
-Introduction to Software Security  
+Introduction to Software Security Course
 - Q&A web platform for Pacil students using **Django REST Framework** and **Next.js**
 - Focused on security: **rate limiting**, **input validation**, **XSS/SQLi protection**
 - Deployed using **Kubernetes**, **Docker**, and **CI/CD via GitHub Actions & GitLab**
